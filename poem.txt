@@ -1,0 +1,4 @@
+I love Rust
+Rust is fast
+I love coding
+Rust is safe
